@@ -54,7 +54,7 @@ chmod 777 filename
 
 #### linux目录配置
 
-![linux1.png](..\img\linux1.png)
+![linux1.png](https://github.com/lihuakang/LHK-Note/blob/main/img/linux1.png)
 
 - `/`：根目录，一般根目录下只存放目录，在Linux下有且只有一个根目录。所有的东西都是从这里开始。当你在终端里输入“/home”，你其实是在告诉电脑，先从/（根目录）开始，再进入到home目录。
 - `/bin`: /usr/bin: 可执行二进制文件的目录，如常用的命令ls、tar、mv、cat等。
