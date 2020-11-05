@@ -84,13 +84,13 @@ chmod 777 filename
 
 命令行模式：读取，存盘，替换，离开vim
 
-![img](..\img\linux2.png)
+![img](https://github.com/lihuakang/LHK-Note/blob/main/img/linux2.png)
 
 esc 然后冒号  q退出不保存，wq退出并保存   :q!不保存
 
 快捷键：
 
-![img](..\img\linux3.png)
+![img](https://github.com/lihuakang/LHK-Note/blob/main/img/linux3.png)
 
 ### **用户管理**
 
